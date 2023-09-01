@@ -4,12 +4,12 @@ title: Coronavirus, Wuhan, and the truth
 description:
 summary:
 tags:
-    - writings
+  - writings
 ---
 
-*Originally published in Jan 2021*
+_Originally published in Jan 2021_
 
------
+---
 
 It’s hard to go anywhere without hearing my friends discuss the Coronavirus spreading throughout China and into other countries. And while widespread fear hasn’t arisen yet in the United States, it’s important for everybody to be cautious and prepared for the worst.
 
@@ -19,11 +19,11 @@ For me, to understand people is to understand incentives. What drives someone to
 
 A few days ago, I stumbled across an article called [“How to Tell the Truth”](https://a16z.com/2017/07/27/how-to-tell-the-truth/) by the venture capitalist, Ben Horowitz. In the piece, he assumes a majority of people would describe themselves as honest. But he lists several scenarios where it’d be challenging to do so. Let’s take a look at some of his examples:
 
-- *Sales are not going well. If you tell the company the truth, employees might rightly worry about the viability of the company and leave to go to another company. If they leave, you will surely continue to miss your numbers and introduce a spiral of under performance and attrition.*
-- *The expense structure is too large for the business and you will likely have to do a layoff. The company isn’t doomed, but if you do a layoff, the press will write that you are doomed and employees will read it. If they read it, they will worry and leave and then you really will be doomed.*
-- *An important executive just quit. If you tell the truth, people will wonder why and if they might have better options too.*
-- *The product has a serious flaw that is causing customers to fail and causing you to lose deals. If your employees learn this, they may wonder why they are working for the number 2 company and not the company that’s beating you.*
-- *The valuation on the last round was too high and you are looking at a down round. Your managers sold new hires on the promise of the old, higher stock price going even higher.*
+- _Sales are not going well. If you tell the company the truth, employees might rightly worry about the viability of the company and leave to go to another company. If they leave, you will surely continue to miss your numbers and introduce a spiral of under performance and attrition._
+- _The expense structure is too large for the business and you will likely have to do a layoff. The company isn’t doomed, but if you do a layoff, the press will write that you are doomed and employees will read it. If they read it, they will worry and leave and then you really will be doomed._
+- _An important executive just quit. If you tell the truth, people will wonder why and if they might have better options too._
+- _The product has a serious flaw that is causing customers to fail and causing you to lose deals. If your employees learn this, they may wonder why they are working for the number 2 company and not the company that’s beating you._
+- _The valuation on the last round was too high and you are looking at a down round. Your managers sold new hires on the promise of the old, higher stock price going even higher._
 
 Let’s add: Your city of 11M people has fallen ill due to a potentially global health epidemic. The world is watching. You don’t have the resources needed to treat everyone who might be sick. If anybody hears the number of sick are significantly higher, pandemonium will occur.
 

@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Rights vs Justice
+title: Rights vs justice
 description:
 summary:
 tags:
-    - writings
+  - writings
 ---
 
-I was stumbling my way across the Internet and discovered this response to a question about whether [some party] had a right to [some action]. 
+I was stumbling my way across the Internet and discovered this response to a question about whether [some party] had a right to [some action].
 
->Countries don't have rights. Rights are something that someone or some entity with power affords to those under that power. The most common example being a government giving rights to its citizens.
+> Countries don't have rights. Rights are something that someone or some entity with power affords to those under that power. The most common example being a government giving rights to its citizens.
 
 > Things like the universal declaration of human rights detail nothing more than an agreement by its signatories on what rights a government should give its people.
 
@@ -21,13 +21,14 @@ I was stumbling my way across the Internet and discovered this response to a que
 
 > And that of course is a matter of opinion.
 
-I thought this was quite thought-provoking. And I think it aligns well with my framework for rights too. 
+I thought this was quite thought-provoking. And I think it aligns well with my framework for rights too.
 
-What stands out to me is how closely rights should be based on justice. More importantly, rights should give justice to one party without harming another. 
+What stands out to me is how closely rights should be based on justice. More importantly, rights should give justice to one party without harming another.
 
-Take the right to life, liberty, and the pursuit of happiness. One's ability to chase those for themselves does not negatively impact another's ability to pursue theirs. Here are some other examples: 
-* The right for a defendent to a fair trial does not impede the accuser from laying out his/her accusation. 
-* The right to work in just/favorable conditions does not unfairly impede an employer's ability to make money. 
-* The right to education does not prevent someone else from getting a good education.
+Take the right to life, liberty, and the pursuit of happiness. One's ability to chase those for themselves does not negatively impact another's ability to pursue theirs. Here are some other examples:
+
+- The right for a defendent to a fair trial does not impede the accuser from laying out his/her accusation.
+- The right to work in just/favorable conditions does not unfairly impede an employer's ability to make money.
+- The right to education does not prevent someone else from getting a good education.
 
 It might not be a perfect framework, but I think it's a good starting point to keep in mind when hearing the word 'rights' thrown out so much in politics. What do you think?
