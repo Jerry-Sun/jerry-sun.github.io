@@ -7,13 +7,15 @@ tags:
   - writings
 ---
 
-Everyone talks up developing countries like the next best thing on Earth. But it's easy to talk about from someone sitting behind a cushy desk job. In practice, industrialization sucks.
+Everyone talks up developing countries like the next best thing on Earth. But it's easy to talk about from someone sitting in a desk job. In practice, industrialization sucks.
 
-In India or Vietnam, the negative externalities were everywhere. The air was unbreathable. The roads were congested. Itineraries needed to be frequently re-routed. Several complained to me about how this was wasteful money that wasn't being distributed to the poor. Keep in mind in India in particular, this is a country where politicians have to balance things like infrastructure buildup with keeping their voter base happy.
+In places like India or Vietnam, the negative externalities are everywhere. The air is unbreathable. The roads are congested. Itineraries need to be frequently re-routed. Several complained to me about how projects were wasteful money that could've been distributed to the poor. Keep in mind India in particular is a democratic country where politicians have to balance things like infrastructure buildup with keeping their voter base happy.
 
-In Mumbai, my Airbnb host was a nice family who complained about how all the construction meant the nature in and around the city was destroyed. How bird migration was affected by the changes. How the peace of the city was disturbed by the sounds of banging everywhere. Or how the local farmers market down the street they'd frequent was shut down and replaced by a fancy supermarket that didn't sell fresh produce.
+In Mumbai, my Airbnb host was a family who complained about how all the construction meant the nature in and around the city was destroyed. How bird migration was affected by the changes. How the peace of the city was disturbed by the sounds of banging everywhere. Or how the local farmers market they'd visit was shut down and replaced by a fancy supermarket that didn't sell fresh vegetables.
 
-These reminded of a story I once read about China's development in the 90's. This is from a Chinese individual answering a question about why Chinese now by and large support their government today.
+The family even had a fantastic economic opportunity. Since their building was in an attractive neighborhood, there was an outstanding offer from a developer to redevelop the buidling. All the apartment were prepared to vote on the future of the building. Not to mind each owner would get paid market rent for the time being and come back to own a modern unit in the future building. It didn't matter that the new building would have a gym, swimming pool, doorman, etc. Some people just didn't want change. Because development means uprooting lives and inconveniences in each day to day.
+
+The population's skepticism reminds of a story I once read about China in the 90's. This is from a Chinese individual answering a question about why Chinese now by and large support their government today.
 
 > Back when the country was poor as f\*\*k, the government started to build highways and railways, instead of handing out free stuff to the poor.
 
@@ -31,4 +33,4 @@ These reminded of a story I once read about China's development in the 90's. Thi
 
 > Because compared to decades ago, we do, actually, live at a higher standard.
 
-In my travels, I always made a mental note of the parallels between life in developing countries today and that in China a few decades back. Arriving to that higher living standard will inevitably happen but the months and years getting there are very tough.
+Arriving to that higher living standard in Mumbai or Ho Chi Minh City will inevitably happen too (because it's necessary!) but the months and years getting there are very tough.
