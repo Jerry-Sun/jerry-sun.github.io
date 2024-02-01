@@ -9,7 +9,7 @@ tags:
 
 Everyone talks up countries developing like it's the most exciting thing ever. But it's easy to talk about from someone sitting in a desk job. In practice, industrialization sucks.
 
-In places like India or Vietnam, the negative externalities are everywhere. The air is unbreathable. The roads are congested. Itineraries need to be frequently re-routed. Several complained to me about how projects were wasted money that could've been used to help the poor. Keep in mind India in particular is a democratic country where politicians have to balance things like infrastructure buildup with keeping their voter base happy.
+In places like India or Vietnam, the negative externalities are everywhere. The air is unbreathable. The roads are congested. Itineraries routinely need to be re-routed. Several complained to me about how projects were wasted money that could've been used to help the poor. Keep in mind India in particular is a democratic country where politicians have to balance things like infrastructure buildup with keeping their voter base happy.
 
 In Mumbai, my Airbnb host was a family who complained about how all the construction meant the nature in and around the city was destroyed. How bird migration was affected by the changes. How the peace of the city was disturbed by the sounds of banging everywhere. Or how the local farmers market they'd visit was shut down and replaced by a fancy supermarket that didn't sell fresh vegetables.
 
