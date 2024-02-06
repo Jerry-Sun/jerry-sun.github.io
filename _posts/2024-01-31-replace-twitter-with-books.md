@@ -15,7 +15,7 @@ The other reason is because the general quality of information on Twitter has go
 
 > For better or for worse, I’ve left Twitter. The platform was my reading aggregator for the last ten years to find information-dense articles. In 2023, that function completely broke down. Elon’s algorithm changes have deprecated tweets that include links, which drive perfectly sane people not to share their source, writing instead “link in bio” or “link at bottom of thread.” And after Twitter removed headlines from articles, it became much more difficult to figure out what I could be reading. What is Twitter anymore? Not the platform for surfacing information-dense articles, but rather mostly shouting and videos.
 
-Twitter also ruins my attention span. Tweets are quick to read. Addicting. Doomscrolling feels productive. But it's not. I want to build up my focus and a better way to do that is by reading full chapters.
+It also ruins my attention span. Tweets are quick to read. Addicting. Doomscrolling feels productive. But it's not. I want to build up my focus and a better way to do that is by reading full chapters.
 
 Books also give the author a platform to dive deep into a topic. No, Bill Ackman's 2,000 word tweet rants on plagarism do not count. As I get older, I'm beginning to value deep knowledge more. There's less desire to chase the narrative du jour.
 
