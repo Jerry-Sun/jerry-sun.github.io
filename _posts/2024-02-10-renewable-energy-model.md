@@ -7,19 +7,19 @@ tags:
   - writings
 ---
 
-_I started writing to make a point and during that process it forced me to sharpen my thinking. I ended up scrapping what I had written for this shorter thought but I'll retain the longer piece below._
+_I started writing during which I came up with the software analogy. I ended up scrapping what I had written for this tighter thought but I'll retain the draft below._
 
 The global shift to renewable energy is running software's move from one-time sales to recurring subscriptions in reverse.
 
-Energy currently is a subscription model. Countries who rely on energy imports need to consistently import energy from net energy exporters. This means a steady trade of outbound capital in exchange for inbound energy, like monthly purchases of a SaaS product.
+Energy currently is a subscription model. Countries dependent on energy imports need to consistently import energy from net energy exporters. This means a steady trade of outbound capital in exchange for inbound energy, like monthly purchases of a SaaS product.
 
 The introduction of renewables shifts energy to public goods. Every country has access to solar and wind energy. So the principal limitation won't be the natural resource itself but storage. Energies harnessed at the point of collection will be used to power homes and other national needs while excess energy will be stored in batteries, which are getting better and cheaper.
 
-Purchases of batteries are more like one-time purchases of software (or more accurately, like one-time purchases of hardware). Once a purchase is made, a battery can do its job and last several years. Payment won't be needed every day, week, or month. Furthermore, reliance on a limited set of providers won't be necessary. A country can import wind turbines, solar panels, or batteries from multiple manufacturers. Imagine Ethiopia buying panels from the United States, China, Germany, India, Vietnam, Russia, and more. Lacking dependency is great for the buyer and limits leverage for the seller.
+Purchases of batteries are more like one-time purchases of software (or more accurately, like one-time purchases of hardware). Once a purchase is made, a battery can do its job and last several years. Payment won't be needed every day, week, or month. Furthermore, reliance on a limited set of providers won't be necessary. A country can import wind turbines, solar panels, or batteries from multiple manufacturers. Imagine Ethiopia buying panels from the United States, China, Germany, India, Vietnam, Russia, and more. Lowering dependency is great for the buyer and limits leverage for the seller.
 
-This will disadvantage China, which has invested heavily in solar, wind, and battery technology. If I had to bet on a horse, I'd bet that China will have the cheapest solar energy. They'll work to develop and export their renewable technology to foreign countries. They're already doing that. But dominating the energy market in the future doesn't seem like it'll be as lucrative or geopolitically advantageous as it was for countries like Saudi Arabia and Russia in the past.
+This will disadvantage China, which has invested heavily in solar, wind, and battery technology. If I had to bet on a horse, I'd bet that China will have the cheapest renewable energy products on the market. They'll work to develop and export their renewable technology to foreign countries. They're already doing that. But dominating the energy market in the future doesn't seem like it'll be as lucrative or geopolitically advantageous as it was for countries like Saudi Arabia and Russia in the past.
 
----
+--
 
 _Previous draft_
 
@@ -30,7 +30,7 @@ In economics, there is a classification of goods determined by excludability and
 3. Common resources: Non-excludable but rival
 4. Club goods: Excludable but non-rival
 
-This concept is used for microeconomics to interpret individual consumerism. But let me try to make my point if we imagine nations as individuals.
+This concept is used in microeconomics to interpret individual consumerism. But let me try to make my point if we imagine nations as individuals.
 
 Energy primarily comes today from de-facto "private resources". This is what energy sources like coal, natural gas, and oil are. Nations who own the land possess an asset owned entirely by them (excludable) and only consumable once (rival). They can choose to consume it or sell it to other countries just like an individual can use a good or sell it on Facebook Marketplace to another buyer.
 
