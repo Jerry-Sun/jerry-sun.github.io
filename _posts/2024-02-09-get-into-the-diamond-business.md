@@ -13,4 +13,4 @@ Came across this blog <a href="https://progress.fiftyyears.com/">post</a>. The t
 
 I'm thinking about this because two of the wealthiest individuals I coincidentally stumbled across in Mumbai came from families who were involved in the diamond business. And I remember thinking "Wow, surely that can't be a coincidence. The diamond business is big here, huh? This is the world outside of SaaS in San Francisco."
 
-And the blog post sums it up quite well. The most assymetric opportunities with the lowest competition will likely be in something overlooked like plastics, chemicals, or yes, an industry like the diamond business.
+And the blog post sums it up quite well. The most assymetric opportunities with the lowest competition will likely be in something overlooked like plastics, chemicals, or yes, the diamond business.

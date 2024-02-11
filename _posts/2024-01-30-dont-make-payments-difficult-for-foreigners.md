@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Don't make payments difficult for foreigners, please
+title: Let's not make payments difficult for foreigners
 description:
 summary:
 tags:
