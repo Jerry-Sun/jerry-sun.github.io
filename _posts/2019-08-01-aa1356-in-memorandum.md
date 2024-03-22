@@ -4,24 +4,24 @@ title: AA 1356, in memorandum
 description: A summary of my consulting days
 summary:
 tags:
-    - writings
+  - writings
 ---
 
-*Originally published in August 2019*
+_Originally published in August 2019_
 
------
+---
 
-I woke up this morning in a hotel expecting to take an early afternoon American nonstop flight from Albuquerque to Chicago. Yet somehow, it’s 11:30 PM and I’ve found myself a thousand miles away in Denver about to take a United flight. Wild.
+I woke up this morning in a hotel expecting to take an early afternoon AA 1356 nonstop flight from Albuquerque to Chicago. Yet somehow, it’s 11:30 PM and I’ve found myself a thousand miles away in Denver about to take a United flight. Wild.
 
 So here I am, sitting on a worn chair at the end of this airport terminal. There’s a few strangers nearby browsing their phones while straddling the line between sanity and deliriousness. I wonder what they’re scrolling through. Others are sleeping on the ground, clutching their possessions like a toddler protecting her toys. Are they not afraid of getting their stuff stolen? What about how dirty the ground is? Brave.
 
-I notice I always seem to end up here. One of my favorite trips with friends involved laying over at this airport. On the other hand, I recall another nasty flight cancellation when a serious snowstorm passed through Denver some day in early May on my way back home from college - seriously, how can there be a blizzard in May?
+I notice I always seem to end here. One of my favorite trips with friends involved laying over at this airport. On the other hand, I recall another nasty flight cancellation when a serious snowstorm passed through Denver some day in early May on my way back home from college - seriously, how can there be a blizzard in May?!
 
 Let’s say I have a love/hate relationship with this place. Today’s manifestation of that relationship - and with airlines in general - is of the latter.
 
 Rewind back several hours. My original flight got canceled due to stormy weather on the inbound flight. Quite truthfully, it’s no big deal. Getting home a few hours past usual doesn’t even register as a tremor on the scale of life problems. Not specifically my life problems, but in the grand scheme of things. Neglible.
 
-Of course, I wasn’t the only one on my team who had a flight canceled today. Everybody who lives in Chicago had to undergo the same panic this morning. We all woke up at the same hotel at the same time. Look at where we ended up. They’ve all arrived home by now, sleeping soundly in their own bed. I drew the short end of the stick. Unlucky.
+I wasn’t the only one on my team who had a flight canceled today. Everybody who lives in Chicago had to undergo the same panic this morning. We all woke up at the same hotel at the same time. Look at where we ended up. They’ve all arrived home by now, sleeping soundly in their own bed. I drew the short end of the stick. Unlucky.
 
 The person on the other end of the phone working Customer Service at American Airlines was a nice lady named Karen. I had to wait an hour to speak with her to change my flight. Twice. Then she had to wait an hour to speak with the United Airlines rep to put me on a new flight. Twice. Almost four hours in total. I don’t care if you are Christian, Jewish, Muslim, Agnostic, or Capitalist. Whichever God you pray to, he doesn’t want to get involved in this. Lawless.
 

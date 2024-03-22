@@ -33,4 +33,4 @@ That development can suck reminds of a story I once read about China in the 90's
 
 > Because compared to decades ago, we do, actually, live at a higher standard.
 
-Arriving to that higher living standard in places like Mumbai or Ho Chi Minh City will inevitably happen too (because it's important and necessary!) but the months and years getting there are only fun in hindsight.
+Arriving to that higher living standard in places like Mumbai or Ho Chi Minh City will inevitably happen too (because it's important and necessary!) but the months and years getting there only get reminisced on in hindsight.

@@ -4,7 +4,7 @@ title: Do tip wages match output of work?
 description:
 summary:
 tags:
-    - writings
+  - writings
 ---
 
 Happy Presidents Day to everyone. I just came back from a trip to Los Angeles this weekend, where among other things, I stayed at a hotel in Orange County.
@@ -21,4 +21,4 @@ Why do housekeepers get a flat rate while wait staff get a variable percentage o
 
 From a high level view, I could also make the argument housekeepers "do" more than waiters. How much time is needed to fully clean a room? How much time is needed in total to wait a table? Cleaning a room is a lot of work; so is serving customers at a restaurant but at least in my opinion, it's not the same work.
 
-At the end of the day, tipping is supplementary to what people make through their jobs. But as I went about my morning, I couldn't help but question what I saw.
+As I went about my morning, I couldn't help but question what I saw.

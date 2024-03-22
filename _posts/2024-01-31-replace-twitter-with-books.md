@@ -9,7 +9,7 @@ tags:
 
 One thing I would like to do in 2024 is to reduce Twitter use and replace it with more books.
 
-I spend too much time on Twitter already. There was once a time when I needed to use it for work. Crypto lives on Twitter, and as an research analyst, there was signal in engaging with the community. But what I learned was Twitter often is noise. I'd rather dive depeper into a single topic and master it than to chase a narrative. I'm still heavily invested in crypto but I'm comfortable holding onto my positions and adjusting allocations strategically once or twice a year.
+I spend too much time on Twitter already. There was once a time when I needed to use it for work. Crypto lives on Twitter, and as an research analyst, there was signal in engaging with the community. But what I learned was Twitter is often noise. I'd rather dive depeper into a single topic and master it than to chase a narrative. I'm still heavily invested in crypto but I'm comfortable holding onto my positions and adjusting allocations strategically once or twice a year.
 
 The other reason is because the general quality of information on Twitter has gone down. Curated, high quality analyses or links are hard to find nowadays. I log into Twitter and already know what I'm going to see: Memes, political rants, promoted content that's irrelevant, et al. Dan Wang encapsulates this well.
 
