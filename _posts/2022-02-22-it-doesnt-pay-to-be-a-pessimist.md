@@ -4,12 +4,10 @@ title: It doesn't pay to be a pessimist
 description:
 summary:
 tags:
-    - writings
+  - writings
 ---
 
 The [Pessimists Archive](https://pessimistsarchive.org/) has a history of successful ideas that were mocked by the public. It's interesting to see what critics said about back then. I put out a Twitter thread highlighting some examples but it didn't seem to get much traction:
-
-![Jerry tweet about pessimists](https://scontent-lhr8-1.xx.fbcdn.net/v/t1.15752-9/321005076_4114535362105951_6350961706471449756_n.png?_nc_cat=103&ccb=1-7&_nc_sid=ae9488&_nc_ohc=pZmBeH5mwJsAX9Ub4GL&tn=iBJtXJkw44No2D7N&_nc_ht=scontent-lhr8-1.xx&oh=03_AdTvL9QICNigfboI9LTpoU3bQkgvep88Kp4NLBgQEhcfqw&oe=63CEF0D0)
 
 Some of the examples are well-known (e.g. people doubting airplanes, the Internet, mobile phones, etc.) but there's a few that surprised me. For instance, did you know people once feared teddy bears would destroy the maternal instincts of young girls? Or that people once thought elevators moving too fast would cause a sort of "elevator sickness"?
 

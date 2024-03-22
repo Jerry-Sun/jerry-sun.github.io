@@ -7,7 +7,7 @@ tags:
   - writings
 ---
 
-When I was 16, I started my first blog: jerrysunnewsletter.wordpress.com. Yes, I was early to the newsletter craze. I set up a Wordpress account, wrote a blog post or two, then told my friends about it.
+When I was 16, I started my first blog: jerrysunnewsletter.wordpress.com. I set up a Wordpress account, wrote a blog post or two, then told my friends about it.
 
 "Look guys, check out this website. This is gonna be an archive of my insights. Make sure you follow along." The purpose was to create a record to look back on and show people that I once had certain thoughts (ideally the ones that turned out to be correct).
 
