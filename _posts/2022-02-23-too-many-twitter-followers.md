@@ -4,12 +4,12 @@ title: Why do some people follow so many Twitter accounts?
 description:
 summary:
 tags:
-    - writings
+  - writings
 ---
 
-One thing I stumble upon periodically on Twitter is an account following several thousand other accounts. Which always strikes me as odd because how do you actually read everybody's tweets?
+One thing I stumble upon periodically on Twitter is an account following several thousand others. Which always strikes me as odd because how do you actually read everybody's tweets?
 
-Twitter has two ways of curating feeds: chronological or "top tweets" first. The former is simply a stream of tweets from all accounts but the latter is usually a feed of tweets from accounts you engage with most. It's a little like the TikTok feed where content you enjoy gets shown to you more and more frequently.
+Twitter has two ways of curating feeds: chronological or "top tweets" first. The former is a stream of tweets from all accounts you follow but the latter is usually a feed of tweets from accounts you engage with most. It's a little like the TikTok feed where content you enjoy gets shown to you more and more frequently.
 
 If you do use the latter, I don't understand how it's advantageous to follow thousands of accounts. The app automatically locks into the top accounts you engage with and show more and more of those tweets. The remaining accounts are basically nonexistent on the feed.
 

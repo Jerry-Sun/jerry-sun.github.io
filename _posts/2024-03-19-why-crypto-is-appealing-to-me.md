@@ -23,7 +23,7 @@ That said, I also want to share why I find crypto fascinating. There are four pr
 
 (3) Intellectually, I think crypto is interesting because the ideas are fresh. I like how the interoperability of the tech allows one to build upon the work of others. What's most exciting in crypto is its primitives. There are plenty of fresh applications, uses, and design choices for builders and users to play around with. That leaves a lot of thinking both on a technical and a business level.
 
-(4) Lastly, as an immigrant myself, I respect how international the community is. Industry knowledge is relevant in New York, London, Singapore and Dubai. For example, the knowledge to become an expert in the U.S. healthcare system is useless outside of the USA. Same with being a lawyer. Legal proficiency doesn't immediately transfer due to another country's own set of laws.
+(4) Lastly, as an immigrant myself, I respect how international the community is. Industry knowledge is relevant in New York, London, Singapore and Dubai. That's not true for every industry. For example, the knowledge to become an expert in the U.S. healthcare system is useless outside of the USA. Same with being a lawyer. Legal proficiency doesn't immediately transfer due to another country's own set of laws.
 
 In my travels, I encountered people who believed in crypto from all walks of life. I was happy to see that my little Internet tokens held appeal not just to me but also millions around the world too.
 
