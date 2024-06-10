@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The UX for Internet review sites is usually so bad
+title: The UX for Internet review sites is bad
 description:
 summary:
 tags:
