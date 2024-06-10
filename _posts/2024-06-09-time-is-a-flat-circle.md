@@ -9,7 +9,7 @@ tags:
 
 Any serious Bitcoiner should recognize this picture.
 
-![Front page](https://bitcoinmagazine.com/.image/t_share/MTk0OTEzOTYxMjgyMzgxMzM2/filc6i2x0aewcth.jpg)
+![Front page](https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/bitcoin-genesis-block-newspaper-canvas-print-hunter-lee.jpg)
 
 Satoshi slipped a news headline into Bitcoin's genesis block: "Chancellor on brink of second bailout for banks"
 
@@ -17,10 +17,10 @@ Note this occurred amidst the Great Recession. It's believed Satoshi added the h
 
 As Bitcoin Magazine puts it: "It makes it clear that the system being ignited by that very block takes a stand against the central bank policies enabled by a culture of easy money. Bitcoin, instead, would seek to restore accountability and antifragility through a monetary system based on sound money; one that can’t be debased or controlled, manipulated or manufactured to benefit a lucky few."
 
-I saw this newspaper page again today. My eyes wandered as usual to the famous headline at the bottom of the page. But this time, I noticed something else. Something I had always overlooked before.
+I saw this newspaper page again today. My eyes narrowed as usual to the famous headline at the bottom of the page. But this time, I noticed something else. Something I always overlooked before.
 
 "Israel prepares to send tanks and troops into Gaza"
 
-January 3, 2009.
+Saturday January 3 2009.
 
 Time is a flat circle.
