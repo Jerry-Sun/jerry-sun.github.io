@@ -17,7 +17,7 @@ It's believed Satoshi added the line as a protest against irresponsible monetary
 
 As Bitcoin Magazine put it: "It makes it clear that the system being ignited by that very block takes a stand against the central bank policies enabled by a culture of easy money. Bitcoin, instead, would seek to restore accountability and antifragility through a monetary system based on sound money; one that can’t be debased or controlled, manipulated or manufactured to benefit a lucky few."
 
-I saw this newspaper page again today. My eyes glanced as usual to the famous headline at the bottom of the page. But this time I also noticed something else.
+I saw this newspaper page again today. My eyes locked in to the same headline I've seen dozens of times. But this time I also noticed something else.
 
 "Israel prepares to send tanks and troops into Gaza"
 
