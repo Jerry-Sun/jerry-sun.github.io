@@ -11,8 +11,8 @@ tags:
 
 _The cost of distraction is the life you could've lived_
 
-Wow, that's really powerful.
+Wow, that's powerful.
 
-I'm a big fan. I think everyone my age can look back on and see missed life moments when they were too distracted by something.
+I'm like the quip. I think everyone my age can look back on and see missed life moments when they were too distracted by something.
 
 The quote is extra relevant in our current age. It's well known modern technology shortens our attention span. And Americans have such a surplus of entertainment options to fill their time. Being able to focus on your goals, whatever they are, and avoid the noise is something I really respect in those who can do it well.

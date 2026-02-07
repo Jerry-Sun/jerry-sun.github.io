@@ -11,9 +11,9 @@ Capital and labor are dual sides to our economic system.
 
 In the past, labor was crucial to productivity. Companies had to find labor to weld metals on the factory line to make Ford trucks. This meant a factory worker in Detroit was paid a wage meaningful enough to provide housing and healthcare for their family.
 
-Sadly the value of labor is down. Which subsequently increases the value of capital. This divergence will only grow wider with emerging technologies like robotics and AI.
+Sadly the value of labor is declining. Which subsequently increases the value of capital. This divergence will only grow wider with emerging technologies like robotics and AI.
 
-An example where we see this today is inflation. People think inflation devalues money but who has inflation hit the hardest? Laborers who struggle to keep up with inflation. Meanwhile the wealthy accumulate a larger share of the increasing money supply by putting capital to work.
+An example where we see this today is inflation. People think inflation devalues money but who has inflation hit the hardest? Laborers who grind to put food on the table the next day. Meanwhile the wealthy accumulate a larger share of the increasing money supply by putting capital to work.
 
 Obviously if you're already rich, it doesn't matter. But if you're not, what you need to learn is how to be a capital allocator. That takes in the form in either of two ways:
 
